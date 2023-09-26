@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/gamedevidv/Game/main/README.md",true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Aummy770X/Secret-HUB/main/Secret.lua"))()
+
